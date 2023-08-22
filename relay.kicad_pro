@@ -736,6 +736,10 @@
       {
         "netclass": "AC",
         "pattern": "/R_AC2P"
+      },
+      {
+        "netclass": "power",
+        "pattern": "/RelaySC"
       }
     ]
   },
